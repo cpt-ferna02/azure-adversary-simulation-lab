@@ -16,7 +16,9 @@
 **Severity:** Critical  
 **Status:** Simulated — Contained  
 
-A coordinated credential-based attack originating from a single IP targeted an Azure tenant, progressing from password spray through OAuth token theft, service principal abuse, data exfiltration, and persistent backdoor deployment — all detected by Microsoft Sentinel and analyzed by Claude AI.
+A coordinated credential-based attack...
+
+📄 **[View Full Incident Report (PDF)](incident_report.pdf)**
 
 ---
 

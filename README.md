@@ -112,18 +112,35 @@ A coordinated credential-based attack originating from a single IP targeted an A
 
 ## Screenshots
 
-| Screenshot | Description |
-|---|---|
-| `screenshots/01_password_spray.png` | Password spray — 3 fails then success |
-| `screenshots/02_token_capture.png` | Device code OAuth token captured |
-| `screenshots/03_sp_enumeration.png` | All subscription resources exposed |
-| `screenshots/04_exfiltration.png` | PII and credentials dumped |
-| `screenshots/05_persistence.png` | Backdoor runbook deployed |
-| `screenshots/06_sentinel_signins.png` | KQL detection — sign-in anomalies |
-| `screenshots/07_sentinel_keyvault.png` | KQL detection — secret access |
-| `screenshots/08_sentinel_connectors.png` | 9 data connectors active |
-| `screenshots/09_resource_group.png` | All lab infrastructure in vuln-rg |
-| `screenshots/10_incident_report.png` | Claude AI generated incident report |
+**Password Spray Attack**
+![Password Spray](screenshots/01_password_spray.png)
+
+**Device Code Token Captured**
+![Token Capture](screenshots/02_token_capture.png)
+
+**Service Principal Enumeration**
+![SP Enumeration](screenshots/03_sp_enumeration.png)
+
+**Data Exfiltration**
+![Exfiltration](screenshots/04_exfiltration.png)
+
+**Persistence via Runbook**
+![Persistence](screenshots/05_persistence.png)
+
+**Sentinel Sign-in Detection**
+![Sentinel Signins](screenshots/06_sentinel_signins.png)
+
+**Sentinel Key Vault Detection**
+![Sentinel Keyvault](screenshots/07_sentinel_keyvault.png)
+
+**Sentinel Data Connectors**
+![Sentinel Connectors](screenshots/08_sentinel_connectors.png)
+
+**Azure Resource Group**
+![Resource Group](screenshots/09_resource_group.png)
+
+**AI Incident Report**
+![Incident Report](screenshots/10_incident_report.png)
 
 ---
 

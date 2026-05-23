@@ -18,7 +18,7 @@
 
 A coordinated credential-based attack...
 
-📄 **[View Full Incident Report (PDF)](incident_report.pdf)**
+📄 **[View Full Incident Report (PDF)](Azure%20Incident%20Report.pdf)**
 
 ---
 
